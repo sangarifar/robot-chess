@@ -1,0 +1,22 @@
+{
+  "name": "robot-chess",
+  "version": "1.0.0",
+  "description": "nodejs learning",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "robot",
+    "chess",
+    "maktabkhooneh"
+  ],
+  "author": "Esmaeil",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.20.0",
+    "eslint-config-prettier": "^8.5.0",
+    "prettier": "^2.7.1"
+  }
+}
